@@ -83,7 +83,7 @@ body {
 
 .parallax {
   /* The image used */
-  background-image: url("/img/house_image.jpg");
+  background-image: url("https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg");
 
   /* Set a specific height */
   min-height: 700px;
